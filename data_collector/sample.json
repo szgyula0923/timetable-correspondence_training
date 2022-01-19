@@ -1,0 +1,3254 @@
+{
+    "consultations": [{
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "szeptember 23",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0101",
+            "subject_type": "ea",
+            "subject_name": "Számítástudomány alapjai"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "szeptember 24",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Kádek Tamás",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0106",
+            "subject_type": "ea",
+            "subject_name": "Operációs rendszerek és infrastrukturális alapok"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "szeptember 24",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0102",
+            "subject_type": "ea",
+            "subject_name": "Gazdasági matematika 1"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "szeptember 24",
+            "time_start": "18:00",
+            "time_end": "20:00",
+            "lecturer": "Kádek Tamás",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0106",
+            "subject_type": "ea",
+            "subject_name": "Operációs rendszerek és infrastrukturális alapok"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "szeptember 25",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0102",
+            "subject_type": "ea",
+            "subject_name": "Gazdasági matematika 1"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "szeptember 25",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Kádek Tamás",
+            "classroom": "Online 2",
+            "subject_code": "ILBGM0106",
+            "subject_type": "ea",
+            "subject_name": "Operációs rendszerek és infrastrukturális alapok"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "október 14",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "IK-201",
+            "subject_code": "ILBGM0102",
+            "subject_type": "gy",
+            "subject_name": "Gazdasági matematika 1"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "október 15",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Kádek Tamás",
+            "classroom": "IK-106",
+            "subject_code": "ILBGM0106",
+            "subject_type": "gy",
+            "subject_name": "Operációs rendszerek és infrastrukturális alapok"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "október 15",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Kádek Tamás",
+            "classroom": "IK-106",
+            "subject_code": "ILBGM0101",
+            "subject_type": "gy",
+            "subject_name": "Számítástudomány alapjai"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "október 16",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "IK-201",
+            "subject_code": "ILBGM0102",
+            "subject_type": "gy",
+            "subject_name": "Gazdasági matematika 1"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "október 16",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Kádek Tamás",
+            "classroom": "IK-106",
+            "subject_code": "ILBGM0106",
+            "subject_type": "gy",
+            "subject_name": "Operációs rendszerek és infrastrukturális alapok"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "november 18",
+            "time_start": "12:00",
+            "time_end": "20:00",
+            "lecturer": "Törõ Emese",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0104",
+            "subject_type": "ea",
+            "subject_name": "A gazdasági jog alapjai"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "november 19",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Buzás Ferenc",
+            "classroom": "Online 2",
+            "subject_code": "ILBGM0103",
+            "subject_type": "ea",
+            "subject_name": "Bevezetés a menedzsmentbe"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "november 19",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0101",
+            "subject_type": "ea",
+            "subject_name": "Számítástudomány alapjai"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "november 20",
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "lecturer": "Szilágyi Gábor",
+            "classroom": "Online 2",
+            "subject_code": "ILBGM0107",
+            "subject_type": "ea",
+            "subject_name": "Adatkezelés, szerzõi jog"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "november 27",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Buzás Ferenc",
+            "classroom": "IK-F02",
+            "subject_code": "ILBGM0103",
+            "subject_type": "ea",
+            "subject_name": "Bevezetés a menedzsmentbe"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "december 10",
+            "time_start": "10:00",
+            "time_end": "14:00",
+            "lecturer": "Varga Imre",
+            "classroom": "IK-106",
+            "subject_code": "ILBGM0105",
+            "subject_type": "gy",
+            "subject_name": "Bevezetés a programozásba"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "december 10",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Kádek Tamás",
+            "classroom": "IK-106",
+            "subject_code": "ILBGM0101",
+            "subject_type": "gy",
+            "subject_name": "Számítástudomány alapjai"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "december 10",
+            "time_start": "18:00",
+            "time_end": "20:00",
+            "lecturer": "Kádek Tamás",
+            "classroom": "IK-106",
+            "subject_code": "ILBGM0106",
+            "subject_type": "gy",
+            "subject_name": "Operációs rendszerek és infrastrukturális alapok"
+        }, {
+            "training": "1. Gazdaságinformatikus BSc",
+            "education_date": "december 11",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Varga Imre",
+            "classroom": "IK-106",
+            "subject_code": "ILBGM0105",
+            "subject_type": "gy",
+            "subject_name": "Bevezetés a programozásba"
+        }, {
+            "training": "1. Gazdaságinformatikus MSc",
+            "education_date": "szeptember 10",
+            "time_start": "08:00",
+            "time_end": "16:00",
+            "lecturer": "Lakatos Vilmos",
+            "classroom": "Online 5",
+            "subject_code": "ILMGM0208",
+            "subject_type": "gy",
+            "subject_name": "Vezetõi számvitel és kontrolling"
+        }, {
+            "training": "1. Gazdaságinformatikus MSc",
+            "education_date": "szeptember 16",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Pintér-Huszti Andrea",
+            "classroom": "Online 7",
+            "subject_code": "ILMGM9922",
+            "subject_type": "ea",
+            "subject_name": "Vállalati informatika biztonság"
+        }, {
+            "training": "1. Gazdaságinformatikus MSc",
+            "education_date": "szeptember 17",
+            "time_start": "17:00",
+            "time_end": "20:00",
+            "lecturer": "Pintér-Huszti Andrea",
+            "classroom": "Online 7",
+            "subject_code": "ILMGM9922",
+            "subject_type": "ea",
+            "subject_name": "Vállalati informatika biztonság"
+        }, {
+            "training": "1. Gazdaságinformatikus MSc",
+            "education_date": "szeptember 18",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Vágner Anikó",
+            "classroom": "Online 7",
+            "subject_code": "ILMGM0209",
+            "subject_type": "ea",
+            "subject_name": "IT-szolgáltatás menedzsment"
+        }, {
+            "training": "1. Gazdaságinformatikus MSc",
+            "education_date": "szeptember 18",
+            "time_start": "12:00",
+            "time_end": "15:00",
+            "lecturer": "Vágner Anikó",
+            "classroom": "Online 7",
+            "subject_code": "ILMGM0209",
+            "subject_type": "ea",
+            "subject_name": "IT-szolgáltatás menedzsment"
+        }, {
+            "training": "1. Gazdaságinformatikus MSc",
+            "education_date": "október 01",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Lakatos Vilmos",
+            "classroom": "Online 5",
+            "subject_code": "ILMGM0208",
+            "subject_type": "ea",
+            "subject_name": "Vezetõi számvitel és kontrolling"
+        }, {
+            "training": "1. Gazdaságinformatikus MSc",
+            "education_date": "október 01",
+            "time_start": "12:00",
+            "time_end": "18:00",
+            "lecturer": "Vágner Anikó",
+            "classroom": "Online 1",
+            "subject_code": "ILMGM0211",
+            "subject_type": "ea",
+            "subject_name": "Vállalati architektúrák"
+        }, {
+            "training": "1. Gazdaságinformatikus MSc",
+            "education_date": "október 07",
+            "time_start": "16:00",
+            "time_end": "19:00",
+            "lecturer": "Rácz Anett",
+            "classroom": "IK-106",
+            "subject_code": "ILMGM0213",
+            "subject_type": "gy",
+            "subject_name": "SAP vállalat irányítási rendszer üzemeltetés"
+        }, {
+            "training": "1. Gazdaságinformatikus MSc",
+            "education_date": "október 08",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Biró Piroska",
+            "classroom": "IK-106",
+            "subject_code": "ILMGM0210",
+            "subject_type": "gy",
+            "subject_name": "Szoftvertervezés és fejlesztés"
+        }, {
+            "training": "1. Gazdaságinformatikus MSc",
+            "education_date": "október 08",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Rácz Anett",
+            "classroom": "IK-104",
+            "subject_code": "ILMGM0213",
+            "subject_type": "gy",
+            "subject_name": "SAP vállalat irányítási rendszer üzemeltetés"
+        }, {
+            "training": "1. Gazdaságinformatikus MSc",
+            "education_date": "október 09",
+            "time_start": "08:00",
+            "time_end": "10:00",
+            "lecturer": "Olah Judit",
+            "classroom": "GTK Fenyhaz 4. terem",
+            "subject_code": "ILMGM0212",
+            "subject_type": "ea",
+            "subject_name": "Ellátási láncok és értékteremtõ folyamatok menedzsmentje"
+        }, {
+            "training": "1. Gazdaságinformatikus MSc",
+            "education_date": "október 29",
+            "time_start": "12:00",
+            "time_end": "20:00",
+            "lecturer": "Olah Judit",
+            "classroom": "GTK Fenyhaz 4. terem",
+            "subject_code": "ILMGM0212",
+            "subject_type": "ea",
+            "subject_name": "Ellátási láncok és értékteremtõ folyamatok menedzsmentje"
+        }, {
+            "training": "1. Gazdaságinformatikus MSc",
+            "education_date": "december 03",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Biró Piroska",
+            "classroom": "IK-105",
+            "subject_code": "ILMGM0210",
+            "subject_type": "gy",
+            "subject_name": "Szoftvertervezés és fejlesztés"
+        }, {
+            "training": "1. Gazdaságinformatikus MSc",
+            "education_date": "december 03",
+            "time_start": "15:00",
+            "time_end": "20:00",
+            "lecturer": "Aszalós László",
+            "classroom": "IK-105",
+            "subject_code": "ILMGM0207",
+            "subject_type": "gy",
+            "subject_name": "Mesterséges intelligencia a tervezésben és döntéshozatalban"
+        }, {
+            "training": "1. Gazdaságinformatikus MSc",
+            "education_date": "december 04",
+            "time_start": "08:00",
+            "time_end": "10:00",
+            "lecturer": "Aszalós László",
+            "classroom": "IK-F05",
+            "subject_code": "ILMGM0207",
+            "subject_type": "gy",
+            "subject_name": "Mesterséges intelligencia a tervezésben és döntéshozatalban"
+        }, {
+            "training": "1. Gazdaságinformatikus MSc",
+            "education_date": "december 04",
+            "time_start": "10:00",
+            "time_end": "16:00",
+            "lecturer": "Vágner Anikó",
+            "classroom": "IK-203",
+            "subject_code": "ILMGM0211",
+            "subject_type": "gy",
+            "subject_name": "Vállalati architektúrák"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "szeptember 23",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "Online 1",
+            "subject_code": "ILBMM0106",
+            "subject_type": "ea",
+            "subject_name": "A logika és a számítástudomány alapjai"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "szeptember 24",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Ujvári Balázs",
+            "classroom": "Online 3",
+            "subject_code": "ILBMM0103",
+            "subject_type": "gy",
+            "subject_name": "Fizika"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "szeptember 24",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "Online 1",
+            "subject_code": "ILBMM0104",
+            "subject_type": "ea",
+            "subject_name": "Kalkulus"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "szeptember 25",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "Online 1",
+            "subject_code": "ILBMM0104",
+            "subject_type": "ea",
+            "subject_name": "Kalkulus"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "szeptember 25",
+            "time_start": "14:00",
+            "time_end": "19:00",
+            "lecturer": "Vas Ádám",
+            "classroom": "Online 1",
+            "subject_code": "ILBMM0102",
+            "subject_type": "ea",
+            "subject_name": "Elektronika"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "október 08",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Ujvári Balázs",
+            "classroom": "Online 1",
+            "subject_code": "ILBMM0103",
+            "subject_type": "ea",
+            "subject_name": "Fizika"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "október 14",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "IK-201",
+            "subject_code": "ILBMM0104",
+            "subject_type": "gy",
+            "subject_name": "Kalkulus"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "október 15",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Biró Piroska",
+            "classroom": "IK-104",
+            "subject_code": "ILBMM0101",
+            "subject_type": "gy",
+            "subject_name": "Algoritmusok és a programozás alapjai"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "október 15",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "IK-201",
+            "subject_code": "ILBMM0106",
+            "subject_type": "gy",
+            "subject_name": "A logika és a számítástudomány alapjai"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "október 16",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "IK-201",
+            "subject_code": "ILBMM0104",
+            "subject_type": "gy",
+            "subject_name": "Kalkulus"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "október 16",
+            "time_start": "14:00",
+            "time_end": "19:00",
+            "lecturer": "Vas Ádám",
+            "classroom": "IK-104",
+            "subject_code": "ILBMM0102",
+            "subject_type": "gy",
+            "subject_name": "Elektronika"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "november 18",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "Online 2",
+            "subject_code": "ILBMM0105",
+            "subject_type": "ea",
+            "subject_name": "Matematika mérnököknek 1"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "november 19",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Ujvári Balázs",
+            "classroom": "Online 3",
+            "subject_code": "ILBMM0103",
+            "subject_type": "ea",
+            "subject_name": "Fizika"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "november 19",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "Online 1",
+            "subject_code": "ILBMM0106",
+            "subject_type": "ea",
+            "subject_name": "A logika és a számítástudomány alapjai"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "november 20",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "Online 1",
+            "subject_code": "ILBMM0105",
+            "subject_type": "ea",
+            "subject_name": "Matematika mérnököknek 1"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "november 20",
+            "time_start": "14:00",
+            "time_end": "19:00",
+            "lecturer": "Vas Ádám",
+            "classroom": "Online 1",
+            "subject_code": "ILBMM0102",
+            "subject_type": "ea",
+            "subject_name": "Elektronika"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "december 09",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "IK-201",
+            "subject_code": "ILBMM0105",
+            "subject_type": "gy",
+            "subject_name": "Matematika mérnököknek 1"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "december 10",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Ujvári Balázs",
+            "classroom": "IK-104",
+            "subject_code": "ILBMM0103",
+            "subject_type": "gy",
+            "subject_name": "Fizika"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "december 10",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Biró Piroska",
+            "classroom": "IK-104",
+            "subject_code": "ILBMM0101",
+            "subject_type": "gy",
+            "subject_name": "Algoritmusok és a programozás alapjai"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "december 10",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "IK-201",
+            "subject_code": "ILBMM0106",
+            "subject_type": "gy",
+            "subject_name": "A logika és a számítástudomány alapjai"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "december 11",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "IK-201",
+            "subject_code": "ILBMM0105",
+            "subject_type": "gy",
+            "subject_name": "Matematika mérnököknek 1"
+        }, {
+            "training": "1. Mérnök informatikus BSc",
+            "education_date": "december 11",
+            "time_start": "14:00",
+            "time_end": "19:00",
+            "lecturer": "Vas Ádám",
+            "classroom": "IK-104",
+            "subject_code": "ILBMM0102",
+            "subject_type": "gy",
+            "subject_name": "Elektronika"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 23",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "Online 1",
+            "subject_code": "ILBPM0101",
+            "subject_type": "ea",
+            "subject_name": "Az informatika logikai alapjai"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 24",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Kádek Tamás",
+            "classroom": "Online 1",
+            "subject_code": "ILBPM0105",
+            "subject_type": "ea",
+            "subject_name": "Operációs rendszerek"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 24",
+            "time_start": "12:00",
+            "time_end": "14:00",
+            "lecturer": "Besenczi Renátó",
+            "classroom": "Online 1",
+            "subject_code": "ILBPM0104",
+            "subject_type": "gy",
+            "subject_name": "Bevezetés a programozásba"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 24",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "Online 1",
+            "subject_code": "ILBPM0207",
+            "subject_type": "ea",
+            "subject_name": "Kalkulus"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 24",
+            "time_start": "18:00",
+            "time_end": "20:00",
+            "lecturer": "Kádek Tamás",
+            "classroom": "Online 1",
+            "subject_code": "ILBPM0105",
+            "subject_type": "ea",
+            "subject_name": "Operációs rendszerek"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 25",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "Online 1",
+            "subject_code": "ILBPM0207",
+            "subject_type": "ea",
+            "subject_name": "Kalkulus"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 25",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Kádek Tamás",
+            "classroom": "Online 2",
+            "subject_code": "ILBPM0105",
+            "subject_type": "ea",
+            "subject_name": "Operációs rendszerek"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "október 14",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Kunkli Roland",
+            "classroom": "IK-106",
+            "subject_code": "ILBPM0103",
+            "subject_type": "gy",
+            "subject_name": "Számítógépes matematika és vizualizáció"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "október 14",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Kruppa Kinga",
+            "classroom": "IK-F05",
+            "subject_code": "ILBPM0103",
+            "subject_type": "gy",
+            "subject_name": "Számítógépes matematika és vizualizáció"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "október 14",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "IK-201",
+            "subject_code": "ILBPM0207",
+            "subject_type": "gy",
+            "subject_name": "Kalkulus"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "október 15",
+            "time_start": "10:00",
+            "time_end": "14:00",
+            "lecturer": "Besenczi Renátó",
+            "classroom": "IK-105",
+            "subject_code": "ILBPM0104",
+            "subject_type": "gy",
+            "subject_name": "Bevezetés a programozásba"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "október 15",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "IK-201",
+            "subject_code": "ILBPM0101",
+            "subject_type": "gy",
+            "subject_name": "Az informatika logikai alapjai"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "október 16",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "IK-201",
+            "subject_code": "ILBPM0207",
+            "subject_type": "gy",
+            "subject_name": "Kalkulus"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "október 16",
+            "time_start": "14:00",
+            "time_end": "19:00",
+            "lecturer": "Major Sándor Roland",
+            "classroom": "IK-TEOKJ-II/111.",
+            "subject_code": "ILBPM0105",
+            "subject_type": "gy",
+            "subject_name": "Operációs rendszerek"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "november 18",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Hoffmann Miklós",
+            "classroom": "Online 3",
+            "subject_code": "ILBPM0103",
+            "subject_type": "ea",
+            "subject_name": "Számítógépes matematika és vizualizáció"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "november 18",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "Online 2",
+            "subject_code": "ILBPM0102",
+            "subject_type": "ea",
+            "subject_name": "Diszkrét matematika"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "november 19",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Hoffmann Miklós",
+            "classroom": "Online 1",
+            "subject_code": "ILBPM0103",
+            "subject_type": "ea",
+            "subject_name": "Számítógépes matematika és vizualizáció"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "november 19",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "Online 1",
+            "subject_code": "ILBPM0101",
+            "subject_type": "ea",
+            "subject_name": "Az informatika logikai alapjai"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "november 20",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "Online 1",
+            "subject_code": "ILBPM0102",
+            "subject_type": "ea",
+            "subject_name": "Diszkrét matematika"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "december 09",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Kunkli Roland",
+            "classroom": "IK-106",
+            "subject_code": "ILBPM0103",
+            "subject_type": "gy",
+            "subject_name": "Számítógépes matematika és vizualizáció"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "december 09",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Kruppa Kinga",
+            "classroom": "IK-F05",
+            "subject_code": "ILBPM0103",
+            "subject_type": "gy",
+            "subject_name": "Számítógépes matematika és vizualizáció"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "december 09",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "IK-201",
+            "subject_code": "ILBPM0102",
+            "subject_type": "gy",
+            "subject_name": "Diszkrét matematika"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "december 10",
+            "time_start": "10:00",
+            "time_end": "14:00",
+            "lecturer": "Besenczi Renátó",
+            "classroom": "IK-105",
+            "subject_code": "ILBPM0104",
+            "subject_type": "gy",
+            "subject_name": "Bevezetés a programozásba"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "december 10",
+            "time_start": "14:00",
+            "time_end": "16:00",
+            "lecturer": "Kunkli Roland",
+            "classroom": "IK-105",
+            "subject_code": "ILBPM0103",
+            "subject_type": "gy",
+            "subject_name": "Számítógépes matematika és vizualizáció"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "december 10",
+            "time_start": "14:00",
+            "time_end": "16:00",
+            "lecturer": "Kruppa Kinga",
+            "classroom": "IK-205",
+            "subject_code": "ILBPM0103",
+            "subject_type": "gy",
+            "subject_name": "Számítógépes matematika és vizualizáció"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "december 10",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "IK-201",
+            "subject_code": "ILBPM0101",
+            "subject_type": "gy",
+            "subject_name": "Az informatika logikai alapjai"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "december 11",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Bácsó Sándor",
+            "classroom": "IK-201",
+            "subject_code": "ILBPM0102",
+            "subject_type": "gy",
+            "subject_name": "Diszkrét matematika"
+        }, {
+            "training": "1. Programtervezõ informatikus BSc",
+            "education_date": "december 11",
+            "time_start": "14:00",
+            "time_end": "19:00",
+            "lecturer": "Major Sándor Roland",
+            "classroom": "IK-TEOKJ-II/111.",
+            "subject_code": "ILBPM0105",
+            "subject_type": "gy",
+            "subject_name": "Operációs rendszerek"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "szeptember 16",
+            "time_start": "12:00",
+            "time_end": "18:00",
+            "lecturer": "Beregi-Kovács Marcell",
+            "classroom": "Online 5",
+            "subject_code": "ILMPM0101",
+            "subject_type": "ea",
+            "subject_name": "A gépi tanulás alapjai"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "szeptember 17",
+            "time_start": "08:00",
+            "time_end": "16:00",
+            "lecturer": "Herendi Tamás",
+            "classroom": "Online 4",
+            "subject_code": "ILMPM0102",
+            "subject_type": "ea",
+            "subject_name": "Algoritmusok"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "szeptember 17",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Beregi-Kovács Marcell",
+            "classroom": "Online 2",
+            "subject_code": "ILMPM0101",
+            "subject_type": "ea",
+            "subject_name": "A gépi tanulás alapjai"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "szeptember 18",
+            "time_start": "08:00",
+            "time_end": "10:00",
+            "lecturer": "Herendi Tamás",
+            "classroom": "Online 4",
+            "subject_code": "ILMPM0102",
+            "subject_type": "ea",
+            "subject_name": "Algoritmusok"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "szeptember 18",
+            "time_start": "10:00",
+            "time_end": "12:00",
+            "lecturer": "Herendi Tamás",
+            "classroom": "Online 4",
+            "subject_code": "ILMPM9914",
+            "subject_type": "ea",
+            "subject_name": "Kódelmélet"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "szeptember 24",
+            "time_start": "12:00",
+            "time_end": "20:00",
+            "lecturer": "Herendi Tamás",
+            "classroom": "Online 4",
+            "subject_code": "ILMPM9914",
+            "subject_type": "ea",
+            "subject_name": "Kódelmélet"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "október 07",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Oláh Norbert",
+            "classroom": "IK-F05",
+            "subject_code": "ILMPM0103",
+            "subject_type": "gy",
+            "subject_name": "Kriptográfia"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "október 07",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Adamkó Attila",
+            "classroom": "IK-F05",
+            "subject_code": "ILMPM9924",
+            "subject_type": "gy",
+            "subject_name": "Fejlett szoftverarchitektúrák"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "október 08",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Zichar Mariann",
+            "classroom": "IK-105",
+            "subject_code": "ILMPM9918",
+            "subject_type": "gy",
+            "subject_name": "Térinformatika"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "október 08",
+            "time_start": "12:00",
+            "time_end": "18:00",
+            "lecturer": "Oláh Norbert",
+            "classroom": "IK-105",
+            "subject_code": "ILMPM0103",
+            "subject_type": "gy",
+            "subject_name": "Kriptográfia"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "november 12",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Adamkó Attila",
+            "classroom": "IK-105",
+            "subject_code": "ILMPM9924",
+            "subject_type": "gy",
+            "subject_name": "Fejlett szoftverarchitektúrák"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "november 12",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Beregi-Kovács Marcell",
+            "classroom": "IK-105",
+            "subject_code": "ILMPM0101",
+            "subject_type": "gy",
+            "subject_name": "A gépi tanulás alapjai"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "november 13",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Zichar Mariann",
+            "classroom": "IK-105",
+            "subject_code": "ILMPM9918",
+            "subject_type": "gy",
+            "subject_name": "Térinformatika"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "november 13",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Beregi-Kovács Marcell",
+            "classroom": "IK-105",
+            "subject_code": "ILMPM0101",
+            "subject_type": "gy",
+            "subject_name": "A gépi tanulás alapjai"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "december 02",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Oláh Norbert",
+            "classroom": "Online 1",
+            "subject_code": "ILMPM0103",
+            "subject_type": "ea",
+            "subject_name": "Kriptográfia"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "december 02",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Oláh Norbert",
+            "classroom": "Online 1",
+            "subject_code": "ILMPM0103",
+            "subject_type": "ea",
+            "subject_name": "Kriptográfia"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "december 03",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Vágner Anikó",
+            "classroom": "Online 1",
+            "subject_code": "ILMPM0104",
+            "subject_type": "ea",
+            "subject_name": "Információs rendszerek"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "december 03",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Battyányi Péter",
+            "classroom": "Online 1",
+            "subject_code": "ILMPM9916",
+            "subject_type": "ea",
+            "subject_name": "Számítási modellek"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "december 03",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Vágner Anikó",
+            "classroom": "Online 1",
+            "subject_code": "ILMPM0104",
+            "subject_type": "ea",
+            "subject_name": "Információs rendszerek"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "december 04",
+            "time_start": "08:00",
+            "time_end": "10:00",
+            "lecturer": "Vágner Anikó",
+            "classroom": "Online 1",
+            "subject_code": "ILMPM0104",
+            "subject_type": "ea",
+            "subject_name": "Információs rendszerek"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "december 04",
+            "time_start": "10:00",
+            "time_end": "12:00",
+            "lecturer": "Oláh Norbert",
+            "classroom": "Online 1",
+            "subject_code": "ILMPM0103",
+            "subject_type": "ea",
+            "subject_name": "Kriptográfia"
+        }, {
+            "training": "1. Programtervezõ informatikus MSc",
+            "education_date": "december 04",
+            "time_start": "12:00",
+            "time_end": "18:00",
+            "lecturer": "Battyányi Péter",
+            "classroom": "Online 1",
+            "subject_code": "ILMPM9916",
+            "subject_type": "ea",
+            "subject_name": "Számítási modellek"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "szeptember 16",
+            "time_start": "12:00",
+            "time_end": "18:00",
+            "lecturer": "Gáll József",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0315",
+            "subject_type": "ea",
+            "subject_name": "Pénzügyi alapok"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "szeptember 17",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Zichar Mariann",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0318",
+            "subject_type": "ea",
+            "subject_name": "Adatbázisrendszerek"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "szeptember 18",
+            "time_start": "08:00",
+            "time_end": "16:00",
+            "lecturer": "Barizsné Hadházi Edit",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0316",
+            "subject_type": "gy",
+            "subject_name": "Szervezeti magatartás"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "szeptember 18",
+            "time_start": "08:00",
+            "time_end": "16:00",
+            "lecturer": "Barizsné Hadházi Edit",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0316",
+            "subject_type": "gy",
+            "subject_name": "Szervezeti magatartás"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "október 07",
+            "time_start": "12:00",
+            "time_end": "14:00",
+            "lecturer": "Zichar Mariann",
+            "classroom": "IK-106",
+            "subject_code": "ILBGM0318",
+            "subject_type": "gy",
+            "subject_name": "Adatbázisrendszerek"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "október 07",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Nagy Dávid",
+            "classroom": "IK-201",
+            "subject_code": "ILBGM0317",
+            "subject_type": "ea",
+            "subject_name": "Programozás 2"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "október 08",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Gáll József",
+            "classroom": "IK-F09",
+            "subject_code": "ILBGM0315",
+            "subject_type": "gy",
+            "subject_name": "Pénzügyi alapok"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "október 08",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Tiba Attila",
+            "classroom": "IK-TEOKJ-II/112",
+            "subject_code": "ILBGM0317",
+            "subject_type": "gy",
+            "subject_name": "Programozás 2"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "október 09",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Czeglédi Pál",
+            "classroom": "IK-F02",
+            "subject_code": "ILBGM0314",
+            "subject_type": "gy",
+            "subject_name": "Makroökonómia"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "október 09",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Czeglédi Pál",
+            "classroom": "IK-F02",
+            "subject_code": "ILBGM0314",
+            "subject_type": "ea",
+            "subject_name": "Makroökonómia"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "november 11",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Gáll József",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0313",
+            "subject_type": "ea",
+            "subject_name": "Statisztika 1"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "november 11",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Gáll József",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0315",
+            "subject_type": "ea",
+            "subject_name": "Pénzügyi alapok"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "november 12",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Zichar Mariann",
+            "classroom": "Online 2",
+            "subject_code": "ILBGM0318",
+            "subject_type": "ea",
+            "subject_name": "Adatbázisrendszerek"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "november 12",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Nagy Dávid",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0317",
+            "subject_type": "ea",
+            "subject_name": "Programozás 2"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "november 13",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Gáll József",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0313",
+            "subject_type": "ea",
+            "subject_name": "Statisztika 1"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "november 13",
+            "time_start": "14:00",
+            "time_end": "16:00",
+            "lecturer": "Zichar Mariann",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0318",
+            "subject_type": "gy",
+            "subject_name": "Adatbázisrendszerek"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "november 20",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Czeglédi Pál",
+            "classroom": "Online 3",
+            "subject_code": "ILBGM0314",
+            "subject_type": "ea",
+            "subject_name": "Makroökonómia"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "november 20",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Czeglédi Pál",
+            "classroom": "Online 3",
+            "subject_code": "ILBGM0314",
+            "subject_type": "gy",
+            "subject_name": "Makroökonómia"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "december 02",
+            "time_start": "12:00",
+            "time_end": "20:00",
+            "lecturer": "Gáll József",
+            "classroom": "IK-106",
+            "subject_code": "ILBGM0313",
+            "subject_type": "gy",
+            "subject_name": "Statisztika 1"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "december 03",
+            "time_start": "08:00",
+            "time_end": "10:00",
+            "lecturer": "Gáll József",
+            "classroom": "IK-106",
+            "subject_code": "ILBGM0313",
+            "subject_type": "gy",
+            "subject_name": "Statisztika 1"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "december 03",
+            "time_start": "10:00",
+            "time_end": "14:00",
+            "lecturer": "Gáll József",
+            "classroom": "IK-F09",
+            "subject_code": "ILBGM0315",
+            "subject_type": "gy",
+            "subject_name": "Pénzügyi alapok"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "december 03",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Tiba Attila",
+            "classroom": "IK-TEOKJ-II/112",
+            "subject_code": "ILBGM0317",
+            "subject_type": "gy",
+            "subject_name": "Programozás 2"
+        }, {
+            "training": "2. Gazdaságinformatikus BSc",
+            "education_date": "december 04",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Zichar Mariann",
+            "classroom": "IK-F02",
+            "subject_code": "ILBGM0318",
+            "subject_type": "gy",
+            "subject_name": "Adatbázisrendszerek"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "szeptember 16",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Elek Nóra",
+            "classroom": "Online 3",
+            "subject_code": "ILBMM0314",
+            "subject_type": "ea",
+            "subject_name": "Közgazdasági alapismeretek"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "szeptember 16",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Szilágyi Szabolcs",
+            "classroom": "Online 2",
+            "subject_code": "ILBMM0318",
+            "subject_type": "ea",
+            "subject_name": "Számítógépes hálózatok"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "szeptember 17",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Elek Nóra",
+            "classroom": "Online 2",
+            "subject_code": "ILBMM0314",
+            "subject_type": "ea",
+            "subject_name": "Közgazdasági alapismeretek"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "szeptember 17",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Sztrik János",
+            "classroom": "Online 1",
+            "subject_code": "ILBMM0313",
+            "subject_type": "ea",
+            "subject_name": "Valószínûségszámítás és matematikai statisztika"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "szeptember 18",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Szilágyi Szabolcs",
+            "classroom": "Online 2",
+            "subject_code": "ILBMM0318",
+            "subject_type": "ea",
+            "subject_name": "Számítógépes hálózatok"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "szeptember 18",
+            "time_start": "12:00",
+            "time_end": "18:00",
+            "lecturer": "Elek Nóra",
+            "classroom": "Online 2",
+            "subject_code": "ILBMM0314",
+            "subject_type": "gy",
+            "subject_name": "Közgazdasági alapismeretek"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "szeptember 18",
+            "time_start": "18:00",
+            "time_end": "20:00",
+            "lecturer": "Buchman Attila",
+            "classroom": "Online 1",
+            "subject_code": "ILBMM0315",
+            "subject_type": "gy",
+            "subject_name": "Jelek és rendszerek"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "október 07",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Nagy Dávid",
+            "classroom": "IK-201",
+            "subject_code": "ILBMM0317",
+            "subject_type": "gy",
+            "subject_name": "Programozási nyelvek 2"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "október 08",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Sztrik János",
+            "classroom": "IK-F02",
+            "subject_code": "ILBMM0313",
+            "subject_type": "gy",
+            "subject_name": "Valószínûségszámítás és matematikai statisztika"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "október 08",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Nagy Dávid",
+            "classroom": "IK-TEOKJ-II/108",
+            "subject_code": "ILBMM0317",
+            "subject_type": "gy",
+            "subject_name": "Programozási nyelvek 2"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "október 09",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Sztrik János",
+            "classroom": "IK-104",
+            "subject_code": "ILBMM0313",
+            "subject_type": "gy",
+            "subject_name": "Valószínûségszámítás és matematikai statisztika"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "október 09",
+            "time_start": "12:00",
+            "time_end": "18:00",
+            "lecturer": "Szilágyi Szabolcs",
+            "classroom": "IK-104",
+            "subject_code": "ILBMM0318",
+            "subject_type": "gy",
+            "subject_name": "Számítógépes hálózatok"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "november 11",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Elek Nóra",
+            "classroom": "Online 2",
+            "subject_code": "ILBMM0314",
+            "subject_type": "ea",
+            "subject_name": "Közgazdasági alapismeretek"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "november 11",
+            "time_start": "16:00",
+            "time_end": "19:00",
+            "lecturer": "Szilágyi Szabolcs",
+            "classroom": "Online 2",
+            "subject_code": "ILBMM0318",
+            "subject_type": "ea",
+            "subject_name": "Számítógépes hálózatok"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "november 12",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Sztrik János",
+            "classroom": "Online 1",
+            "subject_code": "ILBMM0313",
+            "subject_type": "ea",
+            "subject_name": "Valószínûségszámítás és matematikai statisztika"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "november 12",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Nagy Dávid",
+            "classroom": "Online 2",
+            "subject_code": "ILBMM0317",
+            "subject_type": "gy",
+            "subject_name": "Programozási nyelvek 2"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "november 13",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Buchman Attila",
+            "classroom": "Online 2",
+            "subject_code": "ILBMM0315",
+            "subject_type": "gy",
+            "subject_name": "Jelek és rendszerek"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "november 13",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Buchman Attila",
+            "classroom": "Online 2",
+            "subject_code": "ILBMM0315",
+            "subject_type": "gy",
+            "subject_name": "Jelek és rendszerek"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "december 02",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Bérczes Tamás",
+            "classroom": "IK-F05",
+            "subject_code": "ILBMM0316",
+            "subject_type": "gy",
+            "subject_name": "Mérnöki szoftverfejlesztés és prototípus tervezés grafikus paradigma mentén"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "december 02",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Szilágyi Szabolcs",
+            "classroom": "IK-203",
+            "subject_code": "ILBMM0318",
+            "subject_type": "gy",
+            "subject_name": "Számítógépes hálózatok"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "december 03",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Bérczes Tamás",
+            "classroom": "IK-F05",
+            "subject_code": "ILBMM0316",
+            "subject_type": "gy",
+            "subject_name": "Mérnöki szoftverfejlesztés és prototípus tervezés grafikus paradigma mentén"
+        }, {
+            "training": "2. Mérnök informatikus BSc",
+            "education_date": "december 03",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Nagy Dávid",
+            "classroom": "IK-TEOKJ-II/108",
+            "subject_code": "ILBMM0317",
+            "subject_type": "gy",
+            "subject_name": "Programozási nyelvek 2"
+        }, {
+            "training": "2. Mérnökinformatikus MSc",
+            "education_date": "október 16",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Vas Ádám",
+            "classroom": "Online 1",
+            "subject_code": "ILMMM9922",
+            "subject_type": "ea",
+            "subject_name": "Mikrokontrollerek alkalmazástechnikája"
+        }, {
+            "training": "2. Mérnökinformatikus MSc",
+            "education_date": "október 16",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Majoros Tamás",
+            "classroom": "Online 1",
+            "subject_code": "ILMMM9921",
+            "subject_type": "gy",
+            "subject_name": "Hardver-szoftver együttes tervezés"
+        }, {
+            "training": "2. Mérnökinformatikus MSc",
+            "education_date": "november 13",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Vas Ádám",
+            "classroom": "IK-104",
+            "subject_code": "ILMMM9922",
+            "subject_type": "gy",
+            "subject_name": "Mikrokontrollerek alkalmazástechnikája"
+        }, {
+            "training": "2. Mérnökinformatikus MSc",
+            "education_date": "november 13",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Majoros Tamás",
+            "classroom": "IK-104",
+            "subject_code": "ILMMM9921",
+            "subject_type": "gy",
+            "subject_name": "Hardver-szoftver együttes tervezés"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 16",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "Online 2",
+            "subject_code": "ILBPM0314",
+            "subject_type": "ea",
+            "subject_name": "Az informatika számítástudományi alapjai"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 16",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "Online 3",
+            "subject_code": "ILBPM0316",
+            "subject_type": "ea",
+            "subject_name": "Web technológiák"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 17",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "Online 3",
+            "subject_code": "ILBPM0316",
+            "subject_type": "ea",
+            "subject_name": "Web technológiák"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 17",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Godó Zoltán",
+            "classroom": "Online 3",
+            "subject_code": "ILBPM9927",
+            "subject_type": "gy",
+            "subject_name": "Bioinformatika"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 18",
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "lecturer": "Noszály Csaba",
+            "classroom": "Online 3",
+            "subject_code": "ILBPM0313",
+            "subject_type": "ea",
+            "subject_name": "Alkalmazott statisztika"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "október 07",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Nagy Dávid",
+            "classroom": "IK-201",
+            "subject_code": "ILBPM0315",
+            "subject_type": "gy",
+            "subject_name": "Magas szintû programozási nyelvek 2"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "október 08",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Tiba Attila",
+            "classroom": "IK-104",
+            "subject_code": "ILBPM9930",
+            "subject_type": "gy",
+            "subject_name": "Képfeldolgozás a gyakorlatban"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "október 08",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "IK-TEOKJ-II/111.",
+            "subject_code": "ILBPM0315",
+            "subject_type": "gy",
+            "subject_name": "Magas szintû programozási nyelvek 2"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "október 09",
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "lecturer": "Noszály Csaba",
+            "classroom": "IK-TEOKJ-II/112",
+            "subject_code": "ILBPM0313",
+            "subject_type": "gy",
+            "subject_name": "Alkalmazott statisztika"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "november 11",
+            "time_start": "15:00",
+            "time_end": "19:00",
+            "lecturer": "Godó Zoltán",
+            "classroom": "Online 3",
+            "subject_code": "ILBPM9927",
+            "subject_type": "gy",
+            "subject_name": "Bioinformatika"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "november 12",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "Online 3",
+            "subject_code": "ILBPM0314",
+            "subject_type": "ea",
+            "subject_name": "Az informatika számítástudományi alapjai"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "november 12",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Nagy Dávid",
+            "classroom": "Online 2",
+            "subject_code": "ILBPM0315",
+            "subject_type": "gy",
+            "subject_name": "Magas szintû programozási nyelvek 2"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "november 13",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "Online 3",
+            "subject_code": "ILBPM0314",
+            "subject_type": "gy",
+            "subject_name": "Az informatika számítástudományi alapjai"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "november 13",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "Online 3",
+            "subject_code": "ILBPM0316",
+            "subject_type": "gy",
+            "subject_name": "Web technológiák"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "december 02",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "IK-TEOKJ-II/111.",
+            "subject_code": "ILBPM0316",
+            "subject_type": "gy",
+            "subject_name": "Web technológiák"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "december 03",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Tiba Attila",
+            "classroom": "IK-104",
+            "subject_code": "ILBPM9930",
+            "subject_type": "gy",
+            "subject_name": "Képfeldolgozás a gyakorlatban"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "december 03",
+            "time_start": "12:00",
+            "time_end": "14:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "IK-104",
+            "subject_code": "ILBPM9931",
+            "subject_type": "gy",
+            "subject_name": "Magas szintû programozási nyelvek 3"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "december 03",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "IK-TEOKJ-II/111.",
+            "subject_code": "ILBPM0315",
+            "subject_type": "gy",
+            "subject_name": "Magas szintû programozási nyelvek 2"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "december 04",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "IK-104",
+            "subject_code": "ILBPM0314",
+            "subject_type": "gy",
+            "subject_name": "Az informatika számítástudományi alapjai"
+        }, {
+            "training": "2. Programtervezõ informatikus BSc",
+            "education_date": "december 04",
+            "time_start": "12:00",
+            "time_end": "20:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "IK-TEOKJ-II/111.",
+            "subject_code": "ILBPM9931",
+            "subject_type": "gy",
+            "subject_name": "Magas szintû programozási nyelvek 3"
+        }, {
+            "training": "2. Programtervezõ informatikus MSc",
+            "education_date": "szeptember 10",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Jeszenszky Péter",
+            "classroom": "Online 4",
+            "subject_code": "ILMPM9925",
+            "subject_type": "ea",
+            "subject_name": "Fejlett XML technológiák"
+        }, {
+            "training": "2. Programtervezõ informatikus MSc",
+            "education_date": "szeptember 10",
+            "time_start": "14:00",
+            "time_end": "19:00",
+            "lecturer": "Kunkli Roland",
+            "classroom": "Online 1",
+            "subject_code": "ILMPM9913",
+            "subject_type": "ea",
+            "subject_name": "Geometriai modellezés"
+        }, {
+            "training": "2. Programtervezõ informatikus MSc",
+            "education_date": "szeptember 11",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Jeszenszky Péter",
+            "classroom": "Online 3",
+            "subject_code": "ILMPM9925",
+            "subject_type": "ea",
+            "subject_name": "Fejlett XML technológiák"
+        }, {
+            "training": "2. Programtervezõ informatikus MSc",
+            "education_date": "szeptember 11",
+            "time_start": "12:00",
+            "time_end": "17:00",
+            "lecturer": "Kunkli Roland",
+            "classroom": "Online 3",
+            "subject_code": "ILMPM9921",
+            "subject_type": "ea",
+            "subject_name": "Vizualizáció és vizuális analitika"
+        }, {
+            "training": "2. Programtervezõ informatikus MSc",
+            "education_date": "október 28",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Kunkli Roland",
+            "classroom": "IK-F05",
+            "subject_code": "ILMPM9921",
+            "subject_type": "gy",
+            "subject_name": "Vizualizáció és vizuális analitika"
+        }, {
+            "training": "2. Programtervezõ informatikus MSc",
+            "education_date": "október 28",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Ispány Márton",
+            "classroom": "IK-F05",
+            "subject_code": "ILMPM9929",
+            "subject_type": "gy",
+            "subject_name": "Szöveg- és webbányászat"
+        }, {
+            "training": "2. Programtervezõ informatikus MSc",
+            "education_date": "október 29",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Ispány Márton",
+            "classroom": "IK-105",
+            "subject_code": "ILMPM9929",
+            "subject_type": "gy",
+            "subject_name": "Szöveg- és webbányászat"
+        }, {
+            "training": "2. Programtervezõ informatikus MSc",
+            "education_date": "október 29",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Jeszenszky Péter",
+            "classroom": "IK-105",
+            "subject_code": "ILMPM9925",
+            "subject_type": "gy",
+            "subject_name": "Fejlett XML technológiák"
+        }, {
+            "training": "2. Programtervezõ informatikus MSc",
+            "education_date": "október 30",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Jeszenszky Péter",
+            "classroom": "IK-105",
+            "subject_code": "ILMPM9925",
+            "subject_type": "gy",
+            "subject_name": "Fejlett XML technológiák"
+        }, {
+            "training": "2. Programtervezõ informatikus MSc",
+            "education_date": "október 30",
+            "time_start": "12:00",
+            "time_end": "18:00",
+            "lecturer": "Kunkli Roland",
+            "classroom": "IK-105",
+            "subject_code": "ILMPM9921",
+            "subject_type": "gy",
+            "subject_name": "Vizualizáció és vizuális analitika"
+        }, {
+            "training": "2. Programtervezõ informatikus MSc",
+            "education_date": "december 02",
+            "time_start": "15:00",
+            "time_end": "20:00",
+            "lecturer": "Kunkli Roland",
+            "classroom": "Online 2",
+            "subject_code": "ILMPM9913",
+            "subject_type": "ea",
+            "subject_name": "Geometriai modellezés"
+        }, {
+            "training": "2. Programtervezõ informatikus MSc",
+            "education_date": "december 03",
+            "time_start": "15:00",
+            "time_end": "20:00",
+            "lecturer": "Kunkli Roland",
+            "classroom": "Online 2",
+            "subject_code": "ILMPM9921",
+            "subject_type": "ea",
+            "subject_name": "Vizualizáció és vizuális analitika"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "szeptember 10",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Gáll József",
+            "classroom": "Online 2",
+            "subject_code": "ILBGM9932",
+            "subject_type": "ea",
+            "subject_name": "Pénzügyi matematika"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "szeptember 11",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Major Sándor Roland",
+            "classroom": "Online 1",
+            "subject_code": "ILBGM0529",
+            "subject_type": "ea",
+            "subject_name": "Szoftverfejlesztés és tesztelés alapjai"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "szeptember 30",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Oláh Norbert",
+            "classroom": "IK-F02",
+            "subject_code": "ILBGM0530",
+            "subject_type": "ea",
+            "subject_name": "Az informatikai biztonság alapjai"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "október 01",
+            "time_start": "08:00",
+            "time_end": "16:00",
+            "lecturer": "Rácz Anett",
+            "classroom": "IK-105",
+            "subject_code": "ILBGM0525",
+            "subject_type": "gy",
+            "subject_name": "Operációkutatás"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "október 01",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Major Sándor Roland",
+            "classroom": "IK-105",
+            "subject_code": "ILBGM0529",
+            "subject_type": "gy",
+            "subject_name": "Szoftverfejlesztés és tesztelés alapjai"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "október 02",
+            "time_start": "08:00",
+            "time_end": "16:00",
+            "lecturer": "Gáll József",
+            "classroom": "IK-203",
+            "subject_code": "ILBGM9932",
+            "subject_type": "gy",
+            "subject_name": "Pénzügyi matematika"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "október 28",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Kiss Anita",
+            "classroom": "IK-F02",
+            "subject_code": "ILBGM0527",
+            "subject_type": "gy",
+            "subject_name": "Kontrolling"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "október 28",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Major Sándor Roland",
+            "classroom": "IK-107",
+            "subject_code": "ILBGM0529",
+            "subject_type": "ea",
+            "subject_name": "Szoftverfejlesztés és tesztelés alapjai"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "október 29",
+            "time_start": "10:00",
+            "time_end": "12:00",
+            "lecturer": "Gáll József",
+            "classroom": "IK-F09",
+            "subject_code": "ILBGM9932",
+            "subject_type": "gy",
+            "subject_name": "Pénzügyi matematika"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "október 29",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Gáll József",
+            "classroom": "IK-F09",
+            "subject_code": "ILBGM9932",
+            "subject_type": "ea",
+            "subject_name": "Pénzügyi matematika"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "október 29",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Oláh Norbert",
+            "classroom": "IK-F09",
+            "subject_code": "ILBGM0530",
+            "subject_type": "ea",
+            "subject_name": "Az informatikai biztonság alapjai"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "október 30",
+            "time_start": "08:00",
+            "time_end": "16:00",
+            "lecturer": "Tron Zsuzsanna",
+            "classroom": "IK-TEOKJ-II/109A",
+            "subject_code": "ILBGM0526",
+            "subject_type": "ea",
+            "subject_name": "Világgazdasági és integrációs folyamatok"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "október 30",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Major Sándor Roland",
+            "classroom": "IK-TEOKJ-II/112",
+            "subject_code": "ILBGM0529",
+            "subject_type": "gy",
+            "subject_name": "Szoftverfejlesztés és tesztelés alapjai"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "november 25",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Kovacs Szabolcs",
+            "classroom": "IK-106",
+            "subject_code": "ILBGM0530",
+            "subject_type": "gy",
+            "subject_name": "Az informatikai biztonság alapjai"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "november 25",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Rácz Anett",
+            "classroom": "IK-F05",
+            "subject_code": "ILBGM9933",
+            "subject_type": "gy",
+            "subject_name": "SAP felhasználói alapok"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "november 26",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Kiss Anita",
+            "classroom": "IK-F02",
+            "subject_code": "ILBGM0527",
+            "subject_type": "gy",
+            "subject_name": "Kontrolling"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "november 26",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Kovács László",
+            "classroom": "IK-105",
+            "subject_code": "ILBGM0528",
+            "subject_type": "gy",
+            "subject_name": "Adatkezelõ programok fejlesztése"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "november 26",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Kovács László",
+            "classroom": "IK-105",
+            "subject_code": "ILBGM0528",
+            "subject_type": "gy",
+            "subject_name": "Adatkezelõ programok fejlesztése"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "november 27",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Kovács Szabolcs",
+            "classroom": "IK-203",
+            "subject_code": "ILBGM0530",
+            "subject_type": "gy",
+            "subject_name": "Az informatikai biztonság alapjai"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "november 27",
+            "time_start": "12:00",
+            "time_end": "14:00",
+            "lecturer": "Rácz Anett",
+            "classroom": "IK-104",
+            "subject_code": "ILBGM0525",
+            "subject_type": "gy",
+            "subject_name": "Operációkutatás"
+        }, {
+            "training": "3. Gazdaságinformatikus BSc",
+            "education_date": "november 27",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Rácz Anett",
+            "classroom": "IK-104",
+            "subject_code": "ILBGM9933",
+            "subject_type": "gy",
+            "subject_name": "SAP felhasználói alapok"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "szeptember 09",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "Online 1",
+            "subject_code": "ILBMM0526",
+            "subject_type": "ea",
+            "subject_name": "A mesterséges intelligencia alapjai"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "szeptember 09",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Sütõ József",
+            "classroom": "Online 1",
+            "subject_code": "ILBMM9939",
+            "subject_type": "ea",
+            "subject_name": "Újrakonfigurálható áramkörök"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "szeptember 10",
+            "time_start": "10:00",
+            "time_end": "14:00",
+            "lecturer": "Kádek Tamás",
+            "classroom": "Online 3",
+            "subject_code": "ILBMM0526",
+            "subject_type": "gy",
+            "subject_name": "A mesterséges intelligencia alapjai"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "szeptember 10",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Sütõ József",
+            "classroom": "Online 2",
+            "subject_code": "ILBMM0528",
+            "subject_type": "ea",
+            "subject_name": "Beágyazott rendszerek"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "szeptember 11",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Sütõ József",
+            "classroom": "Online 2",
+            "subject_code": "ILBMM9939",
+            "subject_type": "ea",
+            "subject_name": "Újrakonfigurálható áramkörök"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "szeptember 11",
+            "time_start": "12:00",
+            "time_end": "14:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "Online 2",
+            "subject_code": "ILBMM0526",
+            "subject_type": "ea",
+            "subject_name": "A mesterséges intelligencia alapjai"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "szeptember 11",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Sütõ József",
+            "classroom": "Online 2",
+            "subject_code": "ILBMM0528",
+            "subject_type": "ea",
+            "subject_name": "Beágyazott rendszerek"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "szeptember 11",
+            "time_start": "18:00",
+            "time_end": "20:00",
+            "lecturer": "Sütõ József",
+            "classroom": "Online 1",
+            "subject_code": "ILBMM9939",
+            "subject_type": "ea",
+            "subject_name": "Újrakonfigurálható áramkörök"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "szeptember 30",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Sztrik János",
+            "classroom": "IK-TEOKJ-II/109B",
+            "subject_code": "ILBMM0529",
+            "subject_type": "gy",
+            "subject_name": "Informatikai rendszerek felépítése, modellezése, analízise, megvalósítása"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "szeptember 30",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Várterész Magda",
+            "classroom": "IK-201",
+            "subject_code": "ILBMM0526",
+            "subject_type": "ea",
+            "subject_name": "A mesterséges intelligencia alapjai"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "október 01",
+            "time_start": "10:00",
+            "time_end": "14:00",
+            "lecturer": "Sztrik János",
+            "classroom": "IK-F02",
+            "subject_code": "ILBMM0529",
+            "subject_type": "gy",
+            "subject_name": "Informatikai rendszerek felépítése, modellezése, analízise, megvalósítása"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "október 01",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Gál Zoltán",
+            "classroom": "IK-106",
+            "subject_code": "ILBMM9938",
+            "subject_type": "gy",
+            "subject_name": "Hálózati eszközök programozása 1"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "október 02",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Sütõ József",
+            "classroom": "IK-321",
+            "subject_code": "ILBMM0528",
+            "subject_type": "gy",
+            "subject_name": "Beágyazott rendszerek"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "október 02",
+            "time_start": "12:00",
+            "time_end": "18:00",
+            "lecturer": "Sütõ József",
+            "classroom": "IK-321",
+            "subject_code": "ILBMM9939",
+            "subject_type": "gy",
+            "subject_name": "Újrakonfigurálható áramkörök"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "október 28",
+            "time_start": "12:00",
+            "time_end": "14:00",
+            "lecturer": "Gál Zoltán",
+            "classroom": "IK-106",
+            "subject_code": "ILBMM9938",
+            "subject_type": "gy",
+            "subject_name": "Hálózati eszközök programozása 1"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "október 28",
+            "time_start": "14:00",
+            "time_end": "16:00",
+            "lecturer": "Sztrik János",
+            "classroom": "IK-TEOKJ-II/109B",
+            "subject_code": "ILBMM0529",
+            "subject_type": "gy",
+            "subject_name": "Informatikai rendszerek felépítése, modellezése, analízise, megvalósítása"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "október 28",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Gál Zoltán",
+            "classroom": "IK-106",
+            "subject_code": "ILBMM9938",
+            "subject_type": "gy",
+            "subject_name": "Hálózati eszközök programozása 1"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "október 29",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Kádek Tamás",
+            "classroom": "IK-106",
+            "subject_code": "ILBMM0526",
+            "subject_type": "gy",
+            "subject_name": "A mesterséges intelligencia alapjai"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "október 29",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Kocsis Gergely",
+            "classroom": "IK-106",
+            "subject_code": "ILBMM0530",
+            "subject_type": "gy",
+            "subject_name": "Mobil megoldások"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "október 30",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Sütõ József",
+            "classroom": "IK-321",
+            "subject_code": "ILBMM0528",
+            "subject_type": "gy",
+            "subject_name": "Beágyazott rendszerek"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "október 30",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Sütõ József",
+            "classroom": "IK-321",
+            "subject_code": "ILBMM9939",
+            "subject_type": "gy",
+            "subject_name": "Újrakonfigurálható áramkörök"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "november 20",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Gál Zoltán",
+            "classroom": "IK-105",
+            "subject_code": "ILBMM9938",
+            "subject_type": "gy",
+            "subject_name": "Hálózati eszközök programozása 1"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "november 25",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Kocsis Gergely",
+            "classroom": "IK-106",
+            "subject_code": "ILBMM0530",
+            "subject_type": "gy",
+            "subject_name": "Mobil megoldások"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "november 26",
+            "time_start": "10:00",
+            "time_end": "14:00",
+            "lecturer": "Varga Imre",
+            "classroom": "IK-106",
+            "subject_code": "ILBMM0527",
+            "subject_type": "gy",
+            "subject_name": "Assembly programozás"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "november 26",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Gál Zoltán",
+            "classroom": "IK-106",
+            "subject_code": "ILBMM9938",
+            "subject_type": "gy",
+            "subject_name": "Hálózati eszközök programozása 1"
+        }, {
+            "training": "3. Mérnök informatikus BSc",
+            "education_date": "november 27",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Varga Imre",
+            "classroom": "IK-106",
+            "subject_code": "ILBMM0527",
+            "subject_type": "gy",
+            "subject_name": "Assembly programozás"
+        }, {
+            "training": "3. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 09",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Kalmár István",
+            "classroom": "IK-106",
+            "subject_code": "ILBPM9938",
+            "subject_type": "gy",
+            "subject_name": "Statisztika számítógéppel"
+        }, {
+            "training": "3. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 09",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "IK-106",
+            "subject_code": "ILBPM9987",
+            "subject_type": "gy",
+            "subject_name": "Informatikai versenyfeladatok"
+        }, {
+            "training": "3. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 10",
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "lecturer": "Godó Zoltán",
+            "classroom": "IK-106",
+            "subject_code": "ILBPM0522",
+            "subject_type": "gy",
+            "subject_name": "Webfejlesztés"
+        }, {
+            "training": "3. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 11",
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "lecturer": "Godó Zoltán",
+            "classroom": "IK-106",
+            "subject_code": "ILBPM0522",
+            "subject_type": "gy",
+            "subject_name": "Webfejlesztés"
+        }, {
+            "training": "3. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 30",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Kalmár István",
+            "classroom": "IK-106",
+            "subject_code": "ILBPM9938",
+            "subject_type": "gy",
+            "subject_name": "Statisztika számítógéppel"
+        }, {
+            "training": "3. Programtervezõ informatikus BSc",
+            "education_date": "szeptember 30",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "IK-106",
+            "subject_code": "ILBPM9987",
+            "subject_type": "gy",
+            "subject_name": "Informatikai versenyfeladatok"
+        }, {
+            "training": "3. Programtervezõ informatikus BSc",
+            "education_date": "október 01",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Szabó Máté",
+            "classroom": "IK-104",
+            "subject_code": "ILBPM0521",
+            "subject_type": "gy",
+            "subject_name": "Szoftverfejlesztési módszertanok"
+        }, {
+            "training": "3. Programtervezõ informatikus BSc",
+            "education_date": "október 01",
+            "time_start": "14:00",
+            "time_end": "16:00",
+            "lecturer": "Kalmár István",
+            "classroom": "IK-104",
+            "subject_code": "ILBPM9938",
+            "subject_type": "gy",
+            "subject_name": "Statisztika számítógéppel"
+        }, {
+            "training": "3. Programtervezõ informatikus BSc",
+            "education_date": "október 01",
+            "time_start": "16:00",
+            "time_end": "18:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "IK-104",
+            "subject_code": "ILBPM9987",
+            "subject_type": "gy",
+            "subject_name": "Informatikai versenyfeladatok"
+        }, {
+            "training": "3. Programtervezõ informatikus BSc",
+            "education_date": "október 29",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Szabó Máté",
+            "classroom": "IK-104",
+            "subject_code": "ILBPM0521",
+            "subject_type": "gy",
+            "subject_name": "Szoftverfejlesztési módszertanok"
+        }, {
+            "training": "3. Programtervezõ informatikus BSc",
+            "education_date": "november 05",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Szabó Bence",
+            "classroom": "IK-TEOKJ-II/112",
+            "subject_code": "ILBPM9937",
+            "subject_type": "gy",
+            "subject_name": "Mobil alkalmazásfejlesztés"
+        }, {
+            "training": "3. Programtervezõ informatikus BSc",
+            "education_date": "november 06",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Szabó Bence",
+            "classroom": "IK-104",
+            "subject_code": "ILBPM9937",
+            "subject_type": "gy",
+            "subject_name": "Mobil alkalmazásfejlesztés"
+        }, {
+            "training": "4. Gazdaságinformatikus BSc",
+            "education_date": "október 02",
+            "time_start": "08:00",
+            "time_end": "16:00",
+            "lecturer": "Pakurar Miklos",
+            "classroom": "IK-107",
+            "subject_code": "ILBGM9946",
+            "subject_type": "ea",
+            "subject_name": "Értékteremtõ folyamatok menedzsmentje"
+        }, {
+            "training": "4. Gazdaságinformatikus BSc",
+            "education_date": "október 29",
+            "time_start": "12:00",
+            "time_end": "20:00",
+            "lecturer": "Bujdosó Gyöngyi",
+            "classroom": "IK-205",
+            "subject_code": "ILBGM9944",
+            "subject_type": "gy",
+            "subject_name": "Digitális marketing"
+        }, {
+            "training": "4. Gazdaságinformatikus BSc",
+            "education_date": "október 30",
+            "time_start": "08:00",
+            "time_end": "16:00",
+            "lecturer": "Pakurar Miklos",
+            "classroom": "IK-107",
+            "subject_code": "ILBGM9946",
+            "subject_type": "gy",
+            "subject_name": "Értékteremtõ folyamatok menedzsmentje"
+        }, {
+            "training": "4. Gazdaságinformatikus BSc",
+            "education_date": "november 26",
+            "time_start": "10:00",
+            "time_end": "18:00",
+            "lecturer": "Szokol Patricia",
+            "classroom": "IK-104",
+            "subject_code": "ILBGM9937",
+            "subject_type": "gy",
+            "subject_name": "Statisztika számítógéppel"
+        }, {
+            "training": "4. Gazdaságinformatikus BSc",
+            "education_date": "november 27",
+            "time_start": "08:00",
+            "time_end": "16:00",
+            "lecturer": "Bertók Csanád",
+            "classroom": "IK-107",
+            "subject_code": "ILBGM9943",
+            "subject_type": "ea",
+            "subject_name": "Haladó adatbiztonság"
+        }, {
+            "training": "Regi Gazdasaginformatikus BSc",
+            "education_date": "szeptember 16",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Kuki Attila",
+            "classroom": "Online 4",
+            "subject_code": "ILCK312-K2",
+            "subject_type": "gy",
+            "subject_name": "Programozás labor 2"
+        }, {
+            "training": "Regi Gazdasaginformatikus BSc",
+            "education_date": "október 01",
+            "time_start": "08:00",
+            "time_end": "16:00",
+            "lecturer": "Rácz Anett",
+            "classroom": "IK-105",
+            "subject_code": "ILCV171-K4",
+            "subject_type": "gy",
+            "subject_name": "Operációkutatás"
+        }, {
+            "training": "Regi Gazdasaginformatikus BSc",
+            "education_date": "október 02",
+            "time_start": "08:00",
+            "time_end": "16:00",
+            "lecturer": "Gáll József",
+            "classroom": "IK-203",
+            "subject_code": "ILCV141-K4",
+            "subject_type": "gy",
+            "subject_name": "Pénzügyi matematika"
+        }, {
+            "training": "Regi Gazdasaginformatikus BSc",
+            "education_date": "október 28",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Kiss Anita",
+            "classroom": "IK-F02",
+            "subject_code": "ILCVP21-K4",
+            "subject_type": "gy",
+            "subject_name": "Kontrolling"
+        }, {
+            "training": "Regi Gazdasaginformatikus BSc",
+            "education_date": "október 29",
+            "time_start": "10:00",
+            "time_end": "12:00",
+            "lecturer": "Gáll József",
+            "classroom": "IK-F09",
+            "subject_code": "ILCV141-K4",
+            "subject_type": "gy",
+            "subject_name": "Pénzügyi matematika"
+        }, {
+            "training": "Regi Gazdasaginformatikus BSc",
+            "education_date": "október 29",
+            "time_start": "12:00",
+            "time_end": "20:00",
+            "lecturer": "Bujdosó Gyöngyi",
+            "classroom": "IK-205",
+            "subject_code": "ILBGM9944",
+            "subject_type": "gy",
+            "subject_name": "Digitális marketing"
+        }, {
+            "training": "Regi Gazdasaginformatikus BSc",
+            "education_date": "október 29",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Gáll József",
+            "classroom": "IK-F09",
+            "subject_code": "ILCV141-K4",
+            "subject_type": "ea",
+            "subject_name": "Pénzügyi matematika"
+        }, {
+            "training": "Regi Gazdasaginformatikus BSc",
+            "education_date": "november 25",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Kuki Attila",
+            "classroom": "Online 3",
+            "subject_code": "ILCK312-K2",
+            "subject_type": "gy",
+            "subject_name": "Programozás labor 2"
+        }, {
+            "training": "Regi Gazdasaginformatikus BSc",
+            "education_date": "november 26",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Kiss Anita",
+            "classroom": "IK-F02",
+            "subject_code": "ILCVP21-K4",
+            "subject_type": "gy",
+            "subject_name": "Kontrolling"
+        }, {
+            "training": "Regi Gazdasaginformatikus BSc",
+            "education_date": "november 27",
+            "time_start": "12:00",
+            "time_end": "14:00",
+            "lecturer": "Rácz Anett",
+            "classroom": "IK-104",
+            "subject_code": "ILCV171-K4",
+            "subject_type": "ea",
+            "subject_name": "Operációkutatás"
+        }, {
+            "training": "Regi Gazdasaginformatikus BSc",
+            "education_date": "december 11",
+            "time_start": "08:00",
+            "time_end": "20:00",
+            "lecturer": "Szabó Andrea",
+            "classroom": "IK-F02",
+            "subject_code": "ILCVP41-K3",
+            "subject_type": "gy",
+            "subject_name": "Számítógépek alk. a pénzügyi e"
+        }, {
+            "training": "Rovid ciklusu tanari mesterkepzes",
+            "education_date": "szeptember 16",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "Online 3",
+            "subject_code": "ILMIM0106-18",
+            "subject_type": "ea",
+            "subject_name": "Web technologiak"
+        }, {
+            "training": "Rovid ciklusu tanari mesterkepzes",
+            "education_date": "szeptember 17",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "Online 3",
+            "subject_code": "ILMIM0106-18",
+            "subject_type": "ea",
+            "subject_name": "Web technologiak"
+        }, {
+            "training": "Rovid ciklusu tanari mesterkepzes",
+            "education_date": "szeptember 30",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "IK-106",
+            "subject_code": "ILBPM9987",
+            "subject_type": "gy",
+            "subject_name": "Informatikai versenyfeladatok"
+        }, {
+            "training": "Rovid ciklusu tanari mesterkepzes",
+            "education_date": "október 01",
+            "time_start": "16:00",
+            "time_end": "18:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "IK-104",
+            "subject_code": "ILBPM9987",
+            "subject_type": "gy",
+            "subject_name": "Informatikai versenyfeladatok"
+        }, {
+            "training": "Rovid ciklusu tanari mesterkepzes",
+            "education_date": "október 07",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Nagy Dávid",
+            "classroom": "IK-201",
+            "subject_code": "ILMIM0105-18",
+            "subject_type": "gy",
+            "subject_name": "Programozasi nyelvek labor"
+        }, {
+            "training": "Rovid ciklusu tanari mesterkepzes",
+            "education_date": "október 08",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "IK-TEOKJ-II/111.",
+            "subject_code": "ILMIM0105-18",
+            "subject_type": "gy",
+            "subject_name": "Programozasi nyelvek labor"
+        }, {
+            "training": "Rovid ciklusu tanari mesterkepzes",
+            "education_date": "november 12",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Nagy Dávid",
+            "classroom": "Online 2",
+            "subject_code": "ILMIM0105-18",
+            "subject_type": "gy",
+            "subject_name": "Programozasi nyelvek labor"
+        }, {
+            "training": "Rovid ciklusu tanari mesterkepzes",
+            "education_date": "november 13",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "Online 3",
+            "subject_code": "ILMIM0106-18",
+            "subject_type": "gy",
+            "subject_name": "Web technologiak"
+        }, {
+            "training": "Rovid ciklusu tanari mesterkepzes",
+            "education_date": "december 02",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "IK-TEOKJ-II/111.",
+            "subject_code": "ILMIM0106-18",
+            "subject_type": "gy",
+            "subject_name": "Web technologiak"
+        }, {
+            "training": "Rovid ciklusu tanari mesterkepzes",
+            "education_date": "december 03",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Tóth Róbert",
+            "classroom": "IK-TEOKJ-II/111.",
+            "subject_code": "ILMIM0105-18",
+            "subject_type": "gy",
+            "subject_name": "Programozasi nyelvek labor"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "szeptember 16",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Sztrik János",
+            "classroom": "Online 6",
+            "subject_code": "ILBC711",
+            "subject_type": "ea",
+            "subject_name": "Hálózatok hatékonyságanalízise"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "szeptember 16",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Szilágyi Szabolcs",
+            "classroom": "Online 2",
+            "subject_code": "ILBK721",
+            "subject_type": "ea",
+            "subject_name": "Hálózati architektúrák"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "szeptember 17",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Zichar Mariann",
+            "classroom": "Online 1",
+            "subject_code": "ILBK501",
+            "subject_type": "ea",
+            "subject_name": "Adatbázisrendszerek"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "szeptember 17",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Sztrik János",
+            "classroom": "Online 1",
+            "subject_code": "ILBK121",
+            "subject_type": "ea",
+            "subject_name": "Valószínûségsz. és mat. stat."
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "szeptember 17",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Kuki Attila",
+            "classroom": "Online 5",
+            "subject_code": "ILBV521",
+            "subject_type": "ea",
+            "subject_name": "A rendszerfejlesztés techn."
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "szeptember 18",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Szilágyi Szabolcs",
+            "classroom": "Online 2",
+            "subject_code": "ILBK721",
+            "subject_type": "ea",
+            "subject_name": "Hálózati architektúrák"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "szeptember 24",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Kuki Attila",
+            "classroom": "Online 2",
+            "subject_code": "ILBC741",
+            "subject_type": "ea",
+            "subject_name": "Szakirányú alkalmazás"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "szeptember 24",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Kuki Attila",
+            "classroom": "Online 2",
+            "subject_code": "ILBC302",
+            "subject_type": "ea",
+            "subject_name": "Önálló laboratórium 2"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "szeptember 25",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Kuki Attila",
+            "classroom": "Online 3",
+            "subject_code": "ILBC731",
+            "subject_type": "ea",
+            "subject_name": "Nagysebességû hálózatok"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "szeptember 25",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Kuki Attila",
+            "classroom": "Online 3",
+            "subject_code": "ILBC301",
+            "subject_type": "gy",
+            "subject_name": "Önálló laboratórium 1"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "szeptember 30",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Sztrik János",
+            "classroom": "IK-TEOKJ-II/109B",
+            "subject_code": "ILBK521",
+            "subject_type": "gy",
+            "subject_name": "Informatikai rendszerek mod."
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "október 01",
+            "time_start": "10:00",
+            "time_end": "14:00",
+            "lecturer": "Sztrik János",
+            "classroom": "IK-F02",
+            "subject_code": "ILBK521",
+            "subject_type": "gy",
+            "subject_name": "Informatikai rendszerek mod."
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "október 01",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Gál Zoltán",
+            "classroom": "IK-106",
+            "subject_code": "ILBC721",
+            "subject_type": "gy",
+            "subject_name": "Bevezetés a Cisco eszk. prog.1"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "október 01",
+            "time_start": "15:00",
+            "time_end": "20:00",
+            "lecturer": "Tornai Róbert",
+            "classroom": "IK-206",
+            "subject_code": "ILBC601",
+            "subject_type": "ea",
+            "subject_name": "Multimédia"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "október 07",
+            "time_start": "12:00",
+            "time_end": "14:00",
+            "lecturer": "Zichar Mariann",
+            "classroom": "IK-106",
+            "subject_code": "ILBK501",
+            "subject_type": "gy",
+            "subject_name": "Adatbázisrendszerek"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "október 07",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Sztrik János",
+            "classroom": "IK-TEOKJ-II/109B",
+            "subject_code": "ILBC711",
+            "subject_type": "gy",
+            "subject_name": "Hálózatok hatékonyságanalízise"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "október 07",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Nagy Dávid",
+            "classroom": "IK-201",
+            "subject_code": "ILBK302",
+            "subject_type": "ea",
+            "subject_name": "Magas szintû prog. nyelvek 2"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "október 08",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Sztrik János",
+            "classroom": "IK-F02",
+            "subject_code": "ILBK121",
+            "subject_type": "gy",
+            "subject_name": "Valószínûségsz. és mat. stat."
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "október 08",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Nagy Dávid",
+            "classroom": "IK-TEOKJ-II/108",
+            "subject_code": "ILBK302",
+            "subject_type": "gy",
+            "subject_name": "Magas szintû prog. nyelvek 2"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "október 09",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Sztrik János",
+            "classroom": "IK-104",
+            "subject_code": "ILBK121",
+            "subject_type": "gy",
+            "subject_name": "Valószínûségsz. és mat. stat."
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "október 09",
+            "time_start": "12:00",
+            "time_end": "18:00",
+            "lecturer": "Szilágyi Szabolcs",
+            "classroom": "IK-104",
+            "subject_code": "ILBK721",
+            "subject_type": "gy",
+            "subject_name": "Hálózati architektúrák"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "október 15",
+            "time_start": "15:00",
+            "time_end": "20:00",
+            "lecturer": "Tornai Róbert",
+            "classroom": "IK-206",
+            "subject_code": "ILBC601",
+            "subject_type": "gy",
+            "subject_name": "Multimédia"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "október 28",
+            "time_start": "12:00",
+            "time_end": "14:00",
+            "lecturer": "Gál Zoltán",
+            "classroom": "IK-106",
+            "subject_code": "ILBC721",
+            "subject_type": "gy",
+            "subject_name": "Bevezetés a Cisco eszk. prog.1"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "október 28",
+            "time_start": "14:00",
+            "time_end": "16:00",
+            "lecturer": "Sztrik János",
+            "classroom": "IK-TEOKJ-II/109B",
+            "subject_code": "ILBK521",
+            "subject_type": "gy",
+            "subject_name": "Informatikai rendszerek mod."
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "október 28",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Gál Zoltán",
+            "classroom": "IK-106",
+            "subject_code": "ILBC721",
+            "subject_type": "gy",
+            "subject_name": "Bevezetés a Cisco eszk. prog.1"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "október 29",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Kuki Attila",
+            "classroom": "IK-TEOKJ-II/108",
+            "subject_code": "ILBC741",
+            "subject_type": "gy",
+            "subject_name": "Szakirányú alkalmazás"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "október 29",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Kuki Attila",
+            "classroom": "IK-TEOKJ-II/108",
+            "subject_code": "ILBC302",
+            "subject_type": "gy",
+            "subject_name": "Önálló laboratórium 2"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "november 11",
+            "time_start": "16:00",
+            "time_end": "19:00",
+            "lecturer": "Szilágyi Szabolcs",
+            "classroom": "Online 2",
+            "subject_code": "ILBK721",
+            "subject_type": "ea",
+            "subject_name": "Hálózati architektúrák"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "november 12",
+            "time_start": "08:00",
+            "time_end": "12:00",
+            "lecturer": "Sztrik János",
+            "classroom": "Online 1",
+            "subject_code": "ILBK121",
+            "subject_type": "ea",
+            "subject_name": "Valószínûségsz. és mat. stat."
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "november 12",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Zichar Mariann",
+            "classroom": "Online 2",
+            "subject_code": "ILBK501",
+            "subject_type": "ea",
+            "subject_name": "Adatbázisrendszerek"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "november 12",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Nagy Dávid",
+            "classroom": "Online 1",
+            "subject_code": "ILBK302",
+            "subject_type": "ea",
+            "subject_name": "Magas szintû prog. nyelvek 2"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "november 12",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Kuki Attila",
+            "classroom": "Online 3",
+            "subject_code": "ILBV521",
+            "subject_type": "ea",
+            "subject_name": "A rendszerfejlesztés techn."
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "november 13",
+            "time_start": "14:00",
+            "time_end": "16:00",
+            "lecturer": "Zichar Mariann",
+            "classroom": "Online 1",
+            "subject_code": "ILBK501",
+            "subject_type": "gy",
+            "subject_name": "Adatbázisrendszerek"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "november 13",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Kuki Attila",
+            "classroom": "Online 1",
+            "subject_code": "ILBC301",
+            "subject_type": "gy",
+            "subject_name": "Önálló laboratórium 1"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "november 20",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Gál Zoltán",
+            "classroom": "IK-105",
+            "subject_code": "ILBC721",
+            "subject_type": "gy",
+            "subject_name": "Bevezetés a Cisco eszk. prog.1"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "november 26",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Gál Zoltán",
+            "classroom": "IK-106",
+            "subject_code": "ILBC721",
+            "subject_type": "gy",
+            "subject_name": "Bevezetés a Cisco eszk. prog.1"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "december 02",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Bérczes Tamás",
+            "classroom": "IK-F05",
+            "subject_code": "ILBK321",
+            "subject_type": "gy",
+            "subject_name": "Bev. a LabView programozásba"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "december 02",
+            "time_start": "16:00",
+            "time_end": "20:00",
+            "lecturer": "Szilágyi Szabolcs",
+            "classroom": "IK-203",
+            "subject_code": "ILBK721",
+            "subject_type": "gy",
+            "subject_name": "Hálózati architektúrák"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "december 03",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Bérczes Tamás",
+            "classroom": "IK-F05",
+            "subject_code": "ILBK321",
+            "subject_type": "gy",
+            "subject_name": "Bev. a LabView programozásba"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "december 03",
+            "time_start": "14:00",
+            "time_end": "20:00",
+            "lecturer": "Nagy Dávid",
+            "classroom": "IK-TEOKJ-II/108",
+            "subject_code": "ILBK302",
+            "subject_type": "gy",
+            "subject_name": "Magas szintû prog. nyelvek 2"
+        }, {
+            "training": "Régi Mérnökinformatikus BSc",
+            "education_date": "december 04",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Zichar Mariann",
+            "classroom": "IK-F02",
+            "subject_code": "ILBK501",
+            "subject_type": "gy",
+            "subject_name": "Adatbázisrendszerek"
+        }, {
+            "training": "Régi Programtervezõ informatikus BSc",
+            "education_date": "szeptember 16",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Sztrik János",
+            "classroom": "Online 6",
+            "subject_code": "ILDV724-K5",
+            "subject_type": "ea",
+            "subject_name": "Hálózatok hatékonysági vizsg."
+        }, {
+            "training": "Régi Programtervezõ informatikus BSc",
+            "education_date": "szeptember 17",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Kuki Attila",
+            "classroom": "Online 5",
+            "subject_code": "ILDK321-K5",
+            "subject_type": "ea",
+            "subject_name": "Programozási technológiák"
+        }, {
+            "training": "Régi Programtervezõ informatikus BSc",
+            "education_date": "október 01",
+            "time_start": "15:00",
+            "time_end": "20:00",
+            "lecturer": "Tornai Róbert",
+            "classroom": "IK-206",
+            "subject_code": "ILDV621-K5",
+            "subject_type": "ea",
+            "subject_name": "Multimédia"
+        }, {
+            "training": "Régi Programtervezõ informatikus BSc",
+            "education_date": "október 07",
+            "time_start": "12:00",
+            "time_end": "16:00",
+            "lecturer": "Sztrik János",
+            "classroom": "IK-TEOKJ-II/109B",
+            "subject_code": "ILDV724-K5",
+            "subject_type": "gy",
+            "subject_name": "Hálózatok hatékonysági vizsg."
+        }, {
+            "training": "Régi Programtervezõ informatikus BSc",
+            "education_date": "október 08",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Biró Piroska",
+            "classroom": "IK-106",
+            "subject_code": "ILDK521-K5",
+            "subject_type": "gy",
+            "subject_name": "A rendszerfejlesztés techn."
+        }, {
+            "training": "Régi Programtervezõ informatikus BSc",
+            "education_date": "október 15",
+            "time_start": "15:00",
+            "time_end": "20:00",
+            "lecturer": "Tornai Róbert",
+            "classroom": "IK-206",
+            "subject_code": "ILDV621-K5",
+            "subject_type": "gy",
+            "subject_name": "Multimédia"
+        }, {
+            "training": "Régi Programtervezõ informatikus BSc",
+            "education_date": "november 12",
+            "time_start": "14:00",
+            "time_end": "18:00",
+            "lecturer": "Kuki Attila",
+            "classroom": "Online 3",
+            "subject_code": "ILDK321-K5",
+            "subject_type": "ea",
+            "subject_name": "Programozási technológiák"
+        }, {
+            "training": "Régi Programtervezõ informatikus BSc",
+            "education_date": "november 13",
+            "time_start": "10:00",
+            "time_end": "14:00",
+            "lecturer": "Kuki Attila",
+            "classroom": "Online 4",
+            "subject_code": "ILDK321-K5",
+            "subject_type": "gy",
+            "subject_name": "Programozási technológiák"
+        }, {
+            "training": "Régi Programtervezõ informatikus BSc",
+            "education_date": "december 03",
+            "time_start": "08:00",
+            "time_end": "14:00",
+            "lecturer": "Biró Piroska",
+            "classroom": "IK-105",
+            "subject_code": "ILDK521-K5",
+            "subject_type": "gy",
+            "subject_name": "A rendszerfejlesztés techn."
+        }, {
+            "training": "Régi Programtervezõ informatikus BSc",
+            "education_date": "december 03",
+            "time_start": "14:00",
+            "time_end": "15:00",
+            "lecturer": "Biró Piroska",
+            "classroom": "IK-105",
+            "subject_code": "ILDK521-K5",
+            "subject_type": "ea",
+            "subject_name": "A rendszerfejlesztés techn."
+        }
+    ]
+}
